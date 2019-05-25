@@ -1,0 +1,129 @@
+﻿body {
+    font-family:'Comic Sans MS'
+
+}
+ header .carousel-inner .item{
+     height:100vh;
+ }
+
+ .navbar-inverse {
+    background-color: #2e2f2fcf;
+    border-color: #08080800;
+}
+ .navbar-inverse{
+     background-color:transparent;
+     border-color:transparent;
+     background:rgba(16, 16, 16, 0.85);
+ }
+ .navbar-inverse .navbar-brand{
+     color:#fff;
+     font-size:40px;
+     padding:40px 15px;
+     font-weight:900;
+     color:#edbb00;
+ }
+ .nav .navbar-nav .navbar-right{
+     margin:25px 0;
+     padding:40px 15px;
+ }
+ .navbar-inverse .navbar-nav > li > a{
+     
+     text-transform:uppercase;
+ }
+  
+
+ .navbar .navbar-nav li a{
+     color:#edbb00;
+     background:none;
+ }
+ .navbar .navbar-nav li a:hover{
+     border-bottom:1px solid #edbb00;
+ }
+
+ .navbar .navbar-nav li a:focus{
+     background-color:transparent;
+ }
+ .navbar .navbar-nav .dropdown-menu{
+     background-color:rgba(16, 16, 16, 0.85);
+ }
+
+
+ .banner{
+     background-size:cover;
+     -webkit-background-size:cover;
+     background-position:center center;
+     background-repeat:no-repeat;
+     height:100vh;
+ }
+ .carousel-caption{
+     padding:80px;
+     font-family:'Comic Sans MS';
+         background-color: #80808063;
+    border-radius: 40px;
+ }
+
+ .carousel-caption h2{
+     font-size:70px;
+     text-transform:uppercase;
+     font-weight:bold;
+ }
+ .carousel-caption h2 span{
+     color:#edbb00;
+ }
+ .carousel-caption a{
+     background:#edbb00;
+     padding:15px 35px;
+     display:inline-block;
+     margin-top:15px;
+     color:#fff;
+     text-transform:uppercase;
+     border-radius:52px;
+     text-decoration:none; 
+ }
+ .carousel-control.right{
+     background-image:none;
+ }
+ .carousel-control.left{
+     background-image:none;
+ }
+ .carousel-indicators .active{
+     background-color:#edbb00;
+     border-color:#edbb00;
+ }
+
+   
+
+
+ 
+#dropdown-box
+{
+width:100%;
+height:8%;
+
+}
+#dropdown-box li ul li
+{
+margin-left:;
+}
+.dropdown-box li ul
+{
+display:none;
+position:absolute; 
+}
+.dropdown-box li:hover ul
+{ 
+display:block;
+height:auto; 
+width:80px;
+}
+
+
+
+.selected-nav 
+{
+    color:yellow;
+}
+
+.jumbotron-bgcolor {
+background-color:rgba(255, 219, 0, 0.20);
+}

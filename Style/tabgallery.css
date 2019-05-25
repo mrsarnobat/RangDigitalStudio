@@ -1,0 +1,39 @@
+﻿body{
+    background-image:url(../Images/bgimg.png);
+     background-size:cover;
+     -webkit-background-size:cover;
+     background-position:center center;
+     background-repeat:no-repeat;
+     height:100%;
+    
+}
+.img-gal-size-land{
+    width:300px;
+    height:180px;
+    border:solid #808080;
+    margin-bottom:10px;
+    margin-top:40px;
+    margin-left:10px;
+    margin-right:10px;
+}
+.img-gal-size-port{
+    width:180px;
+    height:300px;
+    border:solid #808080;
+    margin-bottom:10px;
+    margin-top:40px;
+    margin-left:10px;
+    margin-right:10px;
+}
+.text-style{
+        color: #ff4000;
+    font-family: none;
+}
+    
+.title-style{
+    color:aliceblue;
+}
+
+.jumbotron-bgcolor {
+background-color:rgba(255, 219, 0, 0.20);
+}
